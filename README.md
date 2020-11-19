@@ -1,4 +1,4 @@
-# Get coordinates (Top and Left) for any String or tToken in Word Document
+# Get coordinates (Top and Left) for any String or Token in Word Document
 
 This [free consulting project](https://aspose-free-consulting.github.io/) helps you find the position of text between << and >>angle brackets relative to the page top left corner (in points).
 
